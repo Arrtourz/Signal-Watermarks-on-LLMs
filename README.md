@@ -65,7 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code or our methodology in your research, please cite our paper:
 
 ```
-[Your paper citation in BibTeX or any other standard format]
 ```
 
 ## Contact
@@ -73,5 +72,3 @@ If you use this code or our methodology in your research, please cite our paper:
 For any inquiries, please open an issue in this repository or contact us directly at zhenxu@ttu.edu.
 
 ---
-
-**Note:** Remember to replace `[your-username]`, `[Your paper citation]`, and `[your-email@example.com]` with your GitHub username, paper citation details, and contact email, respectively. Also, ensure that the paths and names in the instructions match the actual paths and names in your repository.
