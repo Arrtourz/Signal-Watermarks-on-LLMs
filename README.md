@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code or our methodology in your research, please cite our paper:
 
 ```
-Zhenyu Xu, Ruoyu Xu, Victor S. Sheng, "Signal Watermark on Large Language Models," submitted to IEEE Transactions on Big Data: Special Issue on Large Language Models (LLMs) and Cross-Modal Generative AI, 2024 
+Xu, Z., & Sheng, V. S. (2024). Signal Watermark on Large Language Models. arXiv preprint arXiv:2410.06545.
 ```
 
 ## Contact
